@@ -12,5 +12,5 @@
     "code"
   ],
   "token_endpoint_auth_method": "none",
-  "scope": "mcp:connect offline_access"
+  "scope": "checkins:read checkins:write events:read events:write friends:read lists:read lists:write location:read mcp:connect offline_access profile:read stats:read tips:read tips:write venues:read venues:write"
 }
